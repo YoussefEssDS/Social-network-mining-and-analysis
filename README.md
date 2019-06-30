@@ -7,7 +7,7 @@ So, the tools and packages used for this project are:
 
 1- Data extraction: The Github API for python PyGithub (source below).
 
-2- Network manipulation and graph creation: NetworkX (Source below).
+2- Network manipulation and graph analysis: NetworkX (Source below).
 
 3- Network Visualization: Cytocscape (Source bellow).
 
