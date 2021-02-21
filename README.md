@@ -1,7 +1,7 @@
 # Social-network-mining-analysis
-Mining Github for contributors at the Tensorflow repo and analysis of followship relations.  
+Mining Github for contributors at the Tensorflow repo & analysis of followship relations.  
 
-The development collaboration in open source project refers to when many developers contribute to creating and enhancing a certain software. Github being within other things a development collaboration platform, and being a social network that introduces the notion of followship, allows us to rise problematics around these two notions (followship and collaboration). In other words, given the contributors in a repository, we want to see wither the contributors are connected, and how much connected (by the follow relationship) they are. All this via social network analysis metrics and algorithms. We would also like to provide a graphical view of the output network and some insights from it.
+The development collaboration in open source project refers to the contribution of many developers  to creating and enhancing a certain software. By being a development collaboration platform, and a social network that introduces the notion of followship, Github allows us to rise problematics around these two notions (followship and collaboration). In other words, given the contributors in a repository, we want to see if those contributors are connected, and how connected they are. All this can be done through social network analysis metrics and algorithms. We would also like to provide a graphical view of the output network and some insights from it.
 
 So, the tools and packages used for this project are:
 
